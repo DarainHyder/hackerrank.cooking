@@ -48,7 +48,7 @@ Then commit the updated README.md along with your new solutions.
 
 ## Profile
 
-HackerRank: [your-profile-link-here]
+HackerRank: [hackerrank.com/sawabedarain]
 
 ## Why this exists
 
