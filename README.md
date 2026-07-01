@@ -30,12 +30,12 @@ Each folder contains dated solution files, organized by topic.
 <!-- PROGRESS_START -->
 | Topic | Problems Solved |
 |-------|------------------|
-| Python | 2 |
+| Python | 3 |
 | Data Structures | 0 |
 | Algorithms | 0 |
 | SQL | 0 |
 | Artificial Intelligence | 0 |
-| **Total** | **2** |
+| **Total** | **3** |
 <!-- PROGRESS_END -->
 
 This table updates automatically. After adding new solution files, run:
